@@ -16,9 +16,9 @@ wn.tracer(0)  # Prevent window from updating,
 
 
 # Sounds
-bounce1 = "{}\\pong\\sounds\\bounce1.wav".format(path)
-bounce2 = "{}\\pong\\sounds\\bounce2.wav".format(path)
-bounce3 = "{}\\pong\\sounds\\bounce3.wav".format(path)
+bounce1 = "{}\\sounds\\bounce1.wav".format(path)
+bounce2 = "{}\\sounds\\bounce2.wav".format(path)
+bounce3 = "{}\\sounds\\bounce3.wav".format(path)
 bounceSounds = [bounce1, bounce2, bounce3]
 
 # Paddle 1
